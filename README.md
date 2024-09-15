@@ -6,3 +6,5 @@
 ## 模型来源
 https://github.com/quarrying/quarrying-plant-id.git <br>
 https://github.com/quarrying/quarrying-insect-id.git
+## 技术支持
+ncnn：https://github.com/Tencent/ncnn.git
